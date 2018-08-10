@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.Melons.WebUI", "com.Melons.WebUI\com.Melons.WebUI.csproj", "{EFBA5506-03A5-44FA-8063-AAC04EBD0165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFBA5506-03A5-44FA-8063-AAC04EBD0165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBA5506-03A5-44FA-8063-AAC04EBD0165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBA5506-03A5-44FA-8063-AAC04EBD0165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBA5506-03A5-44FA-8063-AAC04EBD0165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
