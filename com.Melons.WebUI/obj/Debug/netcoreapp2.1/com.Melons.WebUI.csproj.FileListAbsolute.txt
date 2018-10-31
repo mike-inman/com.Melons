@@ -5,7 +5,6 @@ C:\Users\mike.inman\source\repos\com.Melons\com.Melons.WebUI\bin\Debug\netcoreap
 C:\Users\mike.inman\source\repos\com.Melons\com.Melons.WebUI\bin\Debug\netcoreapp2.1\com.Melons.WebUI.pdb
 C:\Users\mike.inman\source\repos\com.Melons\com.Melons.WebUI\bin\Debug\netcoreapp2.1\com.Melons.WebUI.Views.dll
 C:\Users\mike.inman\source\repos\com.Melons\com.Melons.WebUI\bin\Debug\netcoreapp2.1\com.Melons.WebUI.Views.pdb
-C:\Users\mike.inman\source\repos\com.Melons\com.Melons.WebUI\obj\Debug\netcoreapp2.1\com.Melons.WebUI.csprojAssemblyReference.cache
 C:\Users\mike.inman\source\repos\com.Melons\com.Melons.WebUI\obj\Debug\netcoreapp2.1\com.Melons.WebUI.csproj.CoreCompileInputs.cache
 C:\Users\mike.inman\source\repos\com.Melons\com.Melons.WebUI\obj\Debug\netcoreapp2.1\com.Melons.WebUI.RazorAssemblyInfo.cache
 C:\Users\mike.inman\source\repos\com.Melons\com.Melons.WebUI\obj\Debug\netcoreapp2.1\com.Melons.WebUI.RazorAssemblyInfo.cs
